@@ -11,10 +11,13 @@
 
 I'm a **Business Analyst & Data Analyst** with 2+ years of experience turning messy data and complex business problems into clear insights and actionable solutions. I work at the intersection of data, strategy, and people — bridging technical teams and business stakeholders in agile environments.
 
-- 🔍 Currently working on **analytics-driven projects** in agile environments
+- 💼 Currently **Business Analyst (Intern)** at **Fortray Global Services Ltd**, Dublin
+- 🎓 **MSc Business Analytics** — University College Cork, Ireland
+- 🏅 **Salesforce Certified Tableau Data Analyst**
 - 📊 Passionate about **BI dashboards**, **process improvement**, and **predictive analytics**
-- 🎯 Looking for opportunities in **Business Analysis** and **Data Analytics**
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/adnan-abbas-business-analyst/)
+- 🎯 Open to opportunities in **Business Analysis** and **Data Analytics**
+- 📍 Based in **Cork, Ireland** · Full Working Rights
+- 📫 [LinkedIn](https://www.linkedin.com/in/adnan-abbas-business-analyst/) · adnanabbas0398@gmail.com
 
 ---
 
@@ -27,16 +30,29 @@ I'm a **Business Analyst & Data Analyst** with 2+ years of experience turning me
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-**Business Analysis:** Requirements Gathering · User Stories · Process Mapping · Acceptance Criteria · Gap Analysis · Stakeholder Management
+**Business Analysis:** Requirements Gathering · User Stories · Process Mapping · Acceptance Criteria · Gap Analysis · Stakeholder Management · UAT Coordination · RAID Management
 
-**Data & Analytics:** Predictive Modelling · Regression Analysis · Anomaly Detection · Data Cleaning · Dashboard Design · KPI Reporting
+**Data & Analytics:** Predictive Modelling · Regression Analysis · Anomaly Detection · Data Cleaning · Dashboard Design · KPI Reporting · DAX · Power Query · Dataflow Gen2
 
-**Methodologies:** Agile · Scrum · SDLC · BRD/FRD Documentation
+**Methodologies:** Agile · Scrum · Sprint Planning · Backlog Prioritization · SDLC
+
+---
+
+### 🏅 Certifications
+
+- 🔵 **Salesforce Certified Tableau Data Analyst** *(Jan 2026)*
+- 📘 CBAP Training — Simplilearn
+- ⚡ Agile Scrum Master (ASM) Training — Simplilearn
+- 📊 Business Analytics with Excel · SQL · Statistics for Data Science
 
 ---
 
@@ -69,6 +85,7 @@ I'm a **Business Analyst & Data Analyst** with 2+ years of experience turning me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-abbas-business-analyst/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adnanabbas0398)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adnanabbas0398@gmail.com)
 
 </div>
 
